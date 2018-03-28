@@ -1,5 +1,5 @@
 # hello-world
-Just another tutorial repository
+Just another tutorial repo
 
 If you are reading this, you earned a banana!
 Moblin tacos are good.
